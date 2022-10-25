@@ -2,7 +2,7 @@
 This is the homepage for my homelab website (https://broomfieldhomelab.net)
 This code is mainly for Josh, but I will eventually upload this to my main Github account.
 
-Prerequisites 
+# Prerequisites 
 You'll need Git and Node.js (which comes with NPM) installed.
 
 node@v16.4.2 or higher
